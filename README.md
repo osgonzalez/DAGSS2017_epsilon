@@ -1,3 +1,5 @@
+This proget is a simple aplication in J2EE
+
 # Proyecto Java EE DAGSS2017
 
 Aplicación Java EE (Web Profile de Java EE 7) "Receta Electrónica"
